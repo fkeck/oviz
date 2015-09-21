@@ -1,0 +1,9 @@
+Package: oviz
+Type: Package
+Title: Vizualisation methods in freshwater sciences
+Version: 1.0
+Date: 2015-03-11
+Author: Kalman Tapolczai, Francois Keck
+Maintainer: Francois Keck <francois.keck@gmail.com>
+Description: Vizualisation methods in freshwater sciences
+License: GPL-3
