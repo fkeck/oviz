@@ -12,7 +12,7 @@
 #' @param main a character string giving a main title for the diagrams.
 #' @param ... other arguments to be passed to the \code{\link[graphics]{plot.default}} function.
 #' 
-#' @references Maucha, R. Hydrochemische Methoden in der Limnologie: mit besonderer Berücksichtigung
+#' @references Maucha, R. Hydrochemische Methoden in der Limnologie: mit besonderer Ber\"ucksichtigung
 #' der Verfahren von LW Winkler. Schweizerbart, 1932.
 #' 
 #' @examples

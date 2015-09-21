@@ -1,9 +1,9 @@
 Package: oviz
 Type: Package
-Title: Vizualisation methods in freshwater sciences
+Title: Vizualisation Methods in Freshwater Sciences
 Version: 1.0
 Date: 2015-03-11
 Author: Kalman Tapolczai, Francois Keck
 Maintainer: Francois Keck <francois.keck@gmail.com>
-Description: Vizualisation methods in freshwater sciences
+Description: This package aims to provide some tools to represent ions concentrations in waters. For now only Maucha diagram.
 License: GPL-3
