@@ -1,4 +1,4 @@
-
+# Compute a grid for graphical arrangement
 dimMosaic <- function(n.plot){
   x <- floor(sqrt(n.plot))
   y <- floor(sqrt(n.plot))
