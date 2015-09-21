@@ -44,7 +44,7 @@ maucha <- function(x, col = NULL,
   
   par.mar.0 <- par("mar")
   par.mfrow.0 <- par("mfrow")
-  par(mfrow = c(dimMosaic(n.plot)[1], dimMosaic(n.plot)[2]),
+  par(mfrow = c(.dimMosaic(n.plot)[1], .dimMosaic(n.plot)[2]),
       mar = c(2, 0, 2, 0))
   
   for(j in 1:n.plot){

@@ -1,5 +1,5 @@
 # Compute a grid for graphical arrangement
-dimMosaic <- function(n.plot){
+.dimMosaic <- function(n.plot){
   x <- floor(sqrt(n.plot))
   y <- floor(sqrt(n.plot))
   if(x * y < n.plot) y <- y + 1
