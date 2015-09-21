@@ -32,7 +32,7 @@ This function draws Maucha diagram to represent the main ion composition of a wa
 data(ionwaters)
 }
 \references{
-Maucha, R. Hydrochemische Methoden in der Limnologie: mit besonderer Berücksichtigung
+Maucha, R. Hydrochemische Methoden in der Limnologie: mit besonderer Ber\"ucksichtigung
 der Verfahren von LW Winkler. Schweizerbart, 1932.
 }
 
