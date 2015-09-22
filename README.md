@@ -8,7 +8,7 @@ Vizualisation Methods in Freshwater Sciences (well, for now you can just plot a 
 
 To install the package you can use devtools:
 
-    devtools::install_github("fkeck/phylosignal")
+    devtools::install_github("fkeck/oviz")
     
     
 ## Maucha diagram
