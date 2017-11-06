@@ -19,4 +19,4 @@ To install the package you can use devtools:
 ![maucha_demo](http://www.pieceofk.fr/wp-content/uploads/2015/09/maucha_demo.png)
 
 ## License
-The package `oviz` is developed by Kálmán Tapolczai and François Keck. It is released under the GNU General Public License (GPL-3) in the hope that it will be useful, but without any warranty.
+The package `oviz` is developed by Kálmán Tapolczai and François Keck. It is released under the GNU General Public License (GPL-3) in the hope that it will be useful, but without any warranty..
